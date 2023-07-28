@@ -1,17 +1,3 @@
-# CRC32
-
-![CMake](https://github.com/joeinman/CRC32/actions/workflows/cmake.yml/badge.svg)
-
-CRC32 is a Simple C++ Library for Calculating CRC32 & CRC32C Checksums.
-
-## Features:
-
-- Calculate CRC32 Checksums
-- Calculate CRC32C (Castagnoli) Checksums
-
-## Basic Example:
-
-```cpp
 #include <CRC32/CRC32.h>
 #include <iostream>
 
@@ -28,4 +14,3 @@ int main()
 
     return 0;
 }
-```
