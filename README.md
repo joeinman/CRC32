@@ -14,6 +14,7 @@ CRC32 is a Simple C++ Library for Calculating CRC32 & CRC32C Checksums.
 ```cpp
 #include <CRC32/CRC32.h>
 #include <iostream>
+#include <cstdint>
 #include <array>
 
 int main()

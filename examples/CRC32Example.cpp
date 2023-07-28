@@ -1,5 +1,6 @@
 #include <CRC32/CRC32.h>
 #include <iostream>
+#include <cstdint>
 #include <array>
 
 int main()
